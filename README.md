@@ -9,8 +9,9 @@
 - Git and GitHub
 
 Contact
--If you have any questions or suggestions, feel free to reach me on samtochora2001@gmail.com.... 
--Thanks for stopping by! 
+-If you have any questions or suggestions, feel free to reach me on samtochora2001@gmail.com....
+
+Thanks for stopping by! 
 - 💞️ 
 - 
  
