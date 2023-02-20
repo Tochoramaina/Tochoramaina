@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning deep learning...
 - 💞️ I’m looking to collaborate on .Data Science and Machine Learning projects..
 - 📫 How to reach me samtochora2001@gmail.com...
+- Currently what I am focusing on is learning javascript react
 
 <!---
 Tochoramaina/Tochoramaina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
