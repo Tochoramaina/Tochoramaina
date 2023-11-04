@@ -16,7 +16,7 @@
 <img align="left alt="python" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 <img align="left alt="django" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
 <img align="left alt="html5" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left alt="css" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/css3-original.svg.svg"
+<img align="left alt="css" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg.svg"
 <img align="left alt="mysql" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left alt="mongodb" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
 <img align="left alt="git" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
