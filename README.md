@@ -2,7 +2,7 @@
 **`Man on a mission**
 <p>
  Hello, I am a Software  developer and a machine learning enthusiast who creates my version of the digital world one step at a time. All coding projects are built up from planning to designing in order to solve real-world problems.</p>
- <h3>A  Little description</h3>
+ <h3>Description</h3>
 <h5>Customer segmentation, analysis and clustering </h5>
 <h5>Natural language Processing: texts summarization, recommendations systems, and sentiment analysis</h5>
 <h5>Machine Learning algorithms (Classification, Regression, Clustering, Neural Networks, etc.)</h5>
