@@ -22,7 +22,7 @@
 <img align="left alt="git" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
 <h2>Stats</h2>
-![Tochoramaina GitHub stats](https://github-readme-stats.vercel.app/api?username=TochoraMaina&show_icons=true&theme=radical)
+![Tochoramaina GitHub stats](https://github-readme-stats.vercel.app/api?username=tochoraMaina&show_icons=true&theme=radical)
 <!---
 Tochoramaina/Tochoramaina is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
