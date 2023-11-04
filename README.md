@@ -11,15 +11,15 @@
 <h5>Time series analysis and Forecasting</h5>
 
 <h1>Languages and Tools</h1>
-<img align="left alt="javascript" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-<img align="left alt="react" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left alt="python" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left alt="django" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
-<img align="left alt="html5" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left alt="css" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-original.svg"/>
-<img align="left alt="mysql" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left alt="nosql" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/no-sql/nosql-original.svg"/>
-<img align="left alt="git" width="30px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+<img align="left alt="javascript" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left alt="react" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
+<img align="left alt="python" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left alt="django" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg"/>
+<img align="left alt="html5" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left alt="css" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css/css-plain.svg"/>
+<img align="left alt="mysql" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left alt="nosql" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/no-sql/nosql-original.svg"/>
+<img align="left alt="git" width="40px" style="padding-left: 10px", src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
 <!---
 Tochoramaina/Tochoramaina is a ✨ unique ✨ repository because its `README.md` (this file) appears on your GitHub profile.
