@@ -11,6 +11,7 @@
 <h5>Time series analysis and Forecasting</h5>
 
 <h1>Languages and Tools</h1>
+<div style="display: flex; justify-content: space-between;">
 <img align="left alt="javascript" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left alt="react" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left alt="python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
@@ -20,7 +21,7 @@
 <img align="left alt="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
 <img align="left alt="MongoDB" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
 <img align="left alt="git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
-
+</div>
 
 <h2>Stats</h2>
 ![Tochoramaina GitHub stats](https://github-readme-stats.vercel.app/api?username=tochoraMaina&show_icons=true&theme=gruvbox)
