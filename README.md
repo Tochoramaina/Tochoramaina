@@ -11,7 +11,7 @@
 <h5>Time series analysis and Forecasting</h5>
 
 <h1>Languages and Tools</h1>
-<div style="display: flex">
+<div style="display: flex justify-content=space-between">
 <img align="left alt="javascript" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left alt="react" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left alt="python" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
