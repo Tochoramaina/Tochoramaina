@@ -1,7 +1,7 @@
 <H1>Tochora Maina</H1> 
 **`Man on a mission**
 <p>
- Hello, I am a Software  developer and a machine learning enthusiast who creates my version of the digital world one step at a time. All coding projects are built up from planning to designing in order to solve real-world problems.</p>
+ Hello, I am a self-taught Software  developer and a machine learning enthusiast who creates my version of the digital world one step at a time. All my coding projects are built up from planning to designing with a view of solving real-world problems.</p>
  <h3>Description</h3>
 <h5>Customer segmentation, analysis and clustering </h5>
 <h5>Natural language Processing: texts summarization, recommendations systems, and sentiment analysis</h5>
@@ -12,15 +12,15 @@
 
 <h1>Languages and Tools</h1>
 <div style="display: flex; justify-content: space-between;">
-<img align="left alt="javascript" width="40px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+<img align="left alt="javascript" width="70px" style="padding-right: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left alt="react" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
-<img align="left alt="python" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
-<img align="left alt="Django" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
-<img align="left alt="html5" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
-<img align="left alt="CSS" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-<img align="left alt="MySQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
-<img align="left alt="MongoDB" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
-<img align="left alt="git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
+<img align="left alt="python" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+<img align="left alt="Django" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"/>
+<img align="left alt="html5" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+<img align="left alt="CSS" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
+<img align="left alt="MySQL" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+<img align="left alt="MongoDB" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg"/>
+<img align="left alt="git" width="70px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 </div>
 
 <h2>Stats</h2>
