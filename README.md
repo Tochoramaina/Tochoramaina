@@ -1,5 +1,4 @@
-<H1>Tochora Maina</H1> 
-**`Man on a mission**
+<H1>Tochora Maina</H1>
 <p>
  Hello, I am a self-taught Software  developer and a machine learning enthusiast who creates a version his digital world one step at a time. All my coding projects are built up from planning to designing with a view of solving real-world problems.</p>
  <h3>Description</h3>
