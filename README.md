@@ -1,6 +1,6 @@
 <H1>Tochora Maina</H1>
 <p>
- Hello, I am a self-taught Software  developer and a machine learning enthusiast who creates a version his digital world one step at a time. All my coding projects are built up from planning to designing with a view of solving real-world problems.</p>
+ Hello, I am a self-taught data scientist who uses and transform data into actionable business insights that helps in decision making in an organization.</p>
  <h3>Description</h3>
 <h5>Customer segmentation, analysis and clustering </h5>
 <h5>Natural language Processing: texts summarization, recommendations systems, and sentiment analysis</h5>
